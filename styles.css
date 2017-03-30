@@ -1,0 +1,88 @@
+.jackson-body {
+    padding: 10em;
+    padding-top: 3cm;
+    padding-bottom: 13cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    border-top: solid;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+    margin:250px;
+    margin-top: 1px;
+    border-color: grey;
+}
+.robotson {
+    color:black;
+    text-align: center;
+    border-radius: auto;
+    background-color: #DCDCDC;
+    border: 10cm;
+    padding: 1em;
+    margin: 20px;
+    font-size: 50px;
+}
+.questionbox {
+    border-radius: auto;
+    background-color: #DCDCDC;
+    padding: 1cm;
+    border-width: 0em;
+    font-size: 20px;
+    margin: 20px;
+}
+
+
+
+
+
+.answeringbox {
+    border-radius: auto;
+    background-color: #DCDCDC;
+    padding: 1cm;
+
+    font-size: 20px;
+    margin: 1em;
+
+}
+
+
+
+.animated-gif {
+    padding: inherit;
+    margin: 1em;
+    border: auto;
+
+
+
+}
+
+.getmysong {
+    color: red;
+    margin: 0em;
+    font-size: 20px
+}
+.smallbox {
+    width: 300px;
+    height: 45px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    text-align: center;
+
+
+}
+
+
+#tag {
+    width: 460px;
+    height: 50px;
+}
+
+#captcha {
+    width:350px;
+    height:50px;
+}
+
+.button {
+    background-color: #388E8E;
+    color:white;
+
+}
